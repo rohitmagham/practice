@@ -1,0 +1,1 @@
+print("maha aithe emaitadi bhai")
